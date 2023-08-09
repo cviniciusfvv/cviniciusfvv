@@ -9,7 +9,7 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=cviniciusfvv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-## O que estou aprendendo:
+## O que estou estudando:
 
 # Redes:
 <img loading="lazy" src="IMG/cisco/android-chrome-512x512.png" width="45" height="45"/> <img loading="lazy" src="IMG/redes/android-chrome-512x512.png" width="45" height="45"/>
