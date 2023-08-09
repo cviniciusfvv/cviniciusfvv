@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello There, Sou Carlos Vinicius 👋
+- 🔭 Atualmente estou aprocura de um trabalho
+- 🌱 Atualmente estou aprendendo estou fazendo alguns cursos pelo senai e ead, alguns do meus certificados: https://drive.google.com/drive/folders/1UtIQh0c1vhSS6YTGQmmZiS8WQtzeLcnV?usp=drive_link
+- 📫 Como entrar em contato comigo: cviniciusfvv@gmail.com
+- ⚡ Curiosidade: ...
 
 ## O que estou aprendendo:
 
