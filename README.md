@@ -3,13 +3,13 @@
 ## O que estou aprendendo:
 
 # Redes:
-<img loading="lazy" src="IMG/cisco/android-chrome-512x512.png" width="35" height="35"/> <img loading="lazy" src="IMG/redes/android-chrome-512x512.png" width="35" height="35"/>
+<img loading="lazy" src="IMG/cisco/android-chrome-512x512.png" width="40" height="40"/> <img loading="lazy" src="IMG/redes/android-chrome-512x512.png" width="40" height="40"/>
 
 # WEB:
-<img loading="lazy" src="IMG/CSS/android-chrome-512x512.png" width="35" height="35"/> <img loading="lazy" src="IMG/HTML/android-chrome-512x512.png" width="35" height="35"/>
+<img loading="lazy" src="IMG/CSS/android-chrome-512x512.png" width="40" height="40"/> <img loading="lazy" src="IMG/HTML/android-chrome-512x512.png" width="40" height="40"/>
 
 # Linguagens:
-<img loading="lazy" src="IMG/c/android-chrome-512x512.png" width="35" height="35"/> <img loading="lazy" src="IMG/c++/android-chrome-512x512.png" width="35" height="35"/> <img loading="lazy" src="IMG/Csharp/android-chrome-512x512.png" width="35" height="35"/> <img loading="lazy" src="IMG/python/android-chrome-512x512.png" width="35" height="35"/> 
+<img loading="lazy" src="IMG/c/android-chrome-512x512.png" width="40" height="40"/> <img loading="lazy" src="IMG/c++/android-chrome-512x512.png" width="40" height="40"/> <img loading="lazy" src="IMG/Csharp/android-chrome-512x512.png" width="40" height="40"/> <img loading="lazy" src="IMG/python/android-chrome-512x512.png" width="40" height="40"/> 
 
 <div>
 <a href="https://github.com/cviniciusfvv">
