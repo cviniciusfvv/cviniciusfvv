@@ -2,7 +2,7 @@
 
 ## Estou aprendendo
 
-<img loading="lazy" src="cviniciusfvv/cviniciusfvv/IMG/Cisco/favicon-32x32.png" width="40" height="40"/> <img loading="lazy" src="cviniciusfvv/cviniciusfvv/IMG/Python/favicon-32x32.png" width="40" height="40"/>
+<img loading="lazy" src="cviniciusfvv/cviniciusfvv/IMG/Cisco/android-chrome-192x192.png" width="40" height="40"/> <img loading="lazy" src="cviniciusfvv/cviniciusfvv/IMG/HTML/android-chrome-192x192.png" width="40" height="40"/>
 
 <div>
 <a href="https://github.com/cviniciusfvv">
