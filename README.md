@@ -9,7 +9,7 @@
 <img loading="lazy" src="IMG/CSS/android-chrome-512x512.png" width="75" height="75"/> <img loading="lazy" src="IMG/HTML/android-chrome-512x512.png" width="75" height="75"/>
 
 # Programação:
-<img loading="lazy" src="IMG/c++/android-chrome-512x512.png" width="75" height="75"/> <img loading="lazy" src="IMG/c/android-chrome-512x512.png" width="75" height="75"/><img loading="lazy" src="IMG/Python/android-chrome-512x512.png" width="75" height="50"/>
+<img loading="lazy" src="IMG/c++/android-chrome-512x512.png" width="75" height="75"/> <img loading="lazy" src="IMG/c/android-chrome-512x512.png" width="75" height="75"/> <img loading="lazy" src="IMG/Python/android-chrome-512x512.png" width="75" height="50"/>
 
 <div>
 <a href="https://github.com/cviniciusfvv">
