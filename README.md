@@ -3,7 +3,7 @@
 ## O que estou aprendendo:
 
 # Redes:
-<img loading="lazy" src="IMG/Cisco/android-chrome-512x512.png" width="75" height="75"/>
+<img loading="lazy" src="IMG/cisco/android-chrome-512x512.png" width="75" height="75"/>
 
 # WEB:
 <img loading="lazy" src="IMG/CSS/android-chrome-512x512.png" width="75" height="75"/> <img loading="lazy" src="IMG/HTML/android-chrome-512x512.png" width="75" height="75"/>
