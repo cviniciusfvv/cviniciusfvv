@@ -23,7 +23,7 @@
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Mantraz_)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
-  <a href="https://www.linkedin.com/in/cviniciusfvvalentim/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain-wordmark.svg" />
+  <a href="https://www.linkedin.com/in/cviniciusfvvalentim/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   <a href="" target="_blank">
   <a href="" target="_blank">
 </div>
