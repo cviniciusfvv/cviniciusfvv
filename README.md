@@ -22,6 +22,7 @@
 
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Mantraz_)](https://github.com/anuraghazra/github-readme-stats)
 
+Rede socias e contato:.
 <div>
   <a href="https://www.linkedin.com/in/cviniciusfvvalentim/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" alt="LinkedIn"> </a>
   <a href="" target="_blank">
