@@ -28,5 +28,3 @@ Rede socias e contato:.
   <a href="https://t.me/CViniciusFVV" target="_blank"> <img src="IMG\Telegram\android-chrome-512x512.png" width="50" height="50"> </a>
   <a href="https://wa.me/5519997455472" target="_blank"> <img src="IMG\Whatsapp\android-chrome-512x512.png" width="50" height="50"> </a>
 </div>
-
-https://wa.me/5519997455472
