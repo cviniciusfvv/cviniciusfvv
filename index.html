@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="author" content="CViniciusFVV" />
+    <title>CViniciusFVV</title>
+    <meta http-equiv="content-language" content="pt-br" />
+
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="css/index.css">
+</head>
+<body>
+    <center><div id="mySidebar" class="sidebar">
+        <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+        <a href="index.html">Inicio</a>
+        <a href="contato.html">contato</a>
+        <a href="projetos.html">Projetos</a>
+        <a href="Sobre">Sobre</a>
+      </div></center>
+      
+      <div id="main">
+        <button class="openbtn" onclick="openNav()">&#9776; Open Sidebar</button>
+        <h2>Collapsed Sidebar</h2>
+        <p>Content...</p>
+      </div>
+</body>
+<script>
+/* Set the width of the sidebar to 250px and the left margin of the page content to 250px */
+function openNav() {
+  document.getElementById("mySidebar").style.width = "250px";
+  document.getElementById("main").style.marginLeft = "250px";
+}
+
+/* Set the width of the sidebar to 0 and the left margin of the page content to 0 */
+function closeNav() {
+  document.getElementById("mySidebar").style.width = "0";
+  document.getElementById("main").style.marginLeft = "0";
+}
+   </script>
+</html>
