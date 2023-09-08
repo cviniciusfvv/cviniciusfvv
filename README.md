@@ -24,7 +24,7 @@
 
 Rede socias e contato:.
 <div>
-  <a href="https://www.linkedin.com/in/cviniciusfvvalentim/" target="_blank"> <img src="IMG\linkedin\android-chrome-512x512.png" width="50" height="50" alt="LinkedIn"> </a>
-  <a href="" target="_blank">
+  <a href="https://www.linkedin.com/in/cviniciusfvvalentim/" target="_blank"> <img src="IMG\linkedin\android-chrome-512x512.png" width="50" height="50"> </a>
+  <a href="https://t.me/CViniciusFVV" target="_blank"> <img src="IMG\Telegram\android-chrome-512x512.png" width="50" height="50"> </a>
   <a href="" target="_blank">
 </div>
