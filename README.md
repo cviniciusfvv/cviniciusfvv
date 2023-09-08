@@ -21,3 +21,10 @@
 <img loading="lazy" src="IMG/c/android-chrome-512x512.png" width="45" height="45"/> <img loading="lazy" src="IMG/c++/android-chrome-512x512.png" width="45" height="45"/> <img loading="lazy" src="IMG/Csharp/android-chrome-512x512.png" width="45" height="45"/> <img loading="lazy" src="IMG/python/android-chrome-512x512.png" width="45" height="45"/> 
 
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Mantraz_)](https://github.com/anuraghazra/github-readme-stats)
+
+Rede socias e contato:.
+<div>
+  <a href="https://www.linkedin.com/in/cviniciusfvvalentim/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" alt="LinkedIn"> </a>
+  <a href="" target="_blank">
+  <a href="" target="_blank">
+</div>
