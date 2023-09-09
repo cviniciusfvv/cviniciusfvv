@@ -1,4 +1,5 @@
 ### Hello There, eu sou Carlos Vinicius 👋
+
 - 🔭 Atualmente estou aprocura de um trabalho
 - 🌱 Atualmente estou aprendendo estou fazendo alguns cursos pelo senai e ead, com formação em técnico em Mecatrônica
 - 📫 Como entrar em contato comigo: cviniciusfvv@gmail.com
@@ -12,19 +13,27 @@
 ## O que estou estudando:
 
 # Redes:
+
 <img loading="lazy" src="IMG/cisco/android-chrome-512x512.png" width="45" height="45"/> <img loading="lazy" src="IMG/redes/android-chrome-512x512.png" width="45" height="45"/>
 
 # WEB:
+
 <img loading="lazy" src="IMG/CSS/android-chrome-512x512.png" width="45" height="45"/> <img loading="lazy" src="IMG/HTML/android-chrome-512x512.png" width="45" height="45"/>
 
 # Linguagens:
-<img loading="lazy" src="IMG/c/android-chrome-512x512.png" width="45" height="45"/> <img loading="lazy" src="IMG/c++/android-chrome-512x512.png" width="45" height="45"/> <img loading="lazy" src="IMG/Csharp/android-chrome-512x512.png" width="45" height="45"/> <img loading="lazy" src="IMG/python/android-chrome-512x512.png" width="45" height="45"/> 
+
+<img loading="lazy" src="IMG/c/android-chrome-512x512.png" width="45" height="45"/> <img loading="lazy" src="IMG/c++/android-chrome-512x512.png" width="45" height="45"/> <img loading="lazy" src="IMG/Csharp/android-chrome-512x512.png" width="45" height="45"/> <img loading="lazy" src="IMG/python/android-chrome-512x512.png" width="45" height="45"/>
 
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Mantraz_)](https://github.com/anuraghazra/github-readme-stats)
 
-Rede socias e contato:.
+## Rede socias e contato:
+
 <div>
   <a href="https://www.linkedin.com/in/cviniciusfvvalentim/" target="_blank"> <img src="IMG\linkedin\android-chrome-512x512.png" width="50" height="50"></a>
   <a href="https://t.me/CViniciusFVV" target="_blank"> <img src="IMG\Telegram\android-chrome-512x512.png" width="50" height="50"> </a>
   <a href="https://wa.me/5519997455472" target="_blank"> <img src="IMG\Whatsapp\android-chrome-512x512.png" width="50" height="50"></a>
 </div>
+
+## Meus certificados de cursos e certificaçôes:
+
+<div><a href="https://drive.google.com/file/d/1islcm2wbVILmJ_z2f3tt84l0NB74WaV5/view?usp=sharing"><p>Tecnico em mecatrônica</p></a><div>
