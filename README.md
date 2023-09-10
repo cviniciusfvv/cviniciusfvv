@@ -38,11 +38,15 @@
 
 # Meus certificados de cursos
 
+<div><a href="https://drive.google.com/file/d/1va3cU3gkKFgw1Mv5rwAz0qUonohvp_Bp/view?usp=drive_link"><p>Administrador de banco de dados</p></a><div>
+<div><a href="https://drive.google.com/file/d/13KKRGNb1JxHbX0mF4vUuBaLaOQj2c6Gx/view?usp=drive_link"><p>Fundamentos de big data e data Analytics com Python</p></a><div>
+<div><a href="https://drive.google.com/file/d/1-k6G7qaX27RFBcl-yKilvou4p7rKnwXD/view?usp=drive_link"><p>Soluçoes integradas com IOT</p></a><div>
 <div><a href="https://drive.google.com/file/d/1f9VgU9hOt1nWfJP5ivyot9etgsjUDVBI/view?usp=sharing"><p>MICROSOFT AZ-900 - IMPLANTAÇÃO DE SERVIÇOS EM NUVEM</p></a><div>
 <div><a href="https://drive.google.com/file/d/1p75CoJn6cMTsCCXLyvEnQIT3uHKEyrDS/view?usp=sharing"><p>MICROSOFT DP-900 - IMPLANTAÇÃO E ANÁLISE DE DADOS EM NUVEM</p></a><div>
 <div><a href="https://drive.google.com/file/d/1s6iqb_Fce_J7MSYbT6Ae2jrEp18QDCeb/view?usp=sharing"><p>MICROSOFT AI-900 - IMPLANTAÇÃO DE SERVIÇOS DE INTELIGÊNCIA ARTIFICIAL EM NUVEM</p></a><div>
 <div><a href="https://drive.google.com/file/d/1xa6OVITIg5JNRGn3p5MGxG2t32HZW8a8/view?usp=sharing"><p>GOOGLE CLOUD FOUNDATIONS - IMPLANTAÇÃO DE SERVIÇOS EM NUVEM</p></a><div>
 <div><a href="https://drive.google.com/file/d/1VCkKQGUqBCcAgAr-BlDJB5Z2cEF7qSK8/view?usp=sharing"><p>AWS CLOUD PRACTITIONER FOUNDATIONAL - IMPLANTAÇÃO DE SERVIÇOS EM NUVEM</p></a><div>
+<div><a href="https://drive.google.com/file/d/1v--Bk4xjHc7_VtHejOsT4Vambwzftf3X/view?usp=drive_link"><p>CCNA V7: indroduction to networks</p></a><div>
 <div><a href="https://drive.google.com/file/d/1-ct86QkYd4F5Agt-m8d-1E3XGjSsTZPo/view?usp=drive_link"><p>REDES DE COMPUTADORES - IMPLANTAÇÃO DE REDES LOCAIS</p></a><div>
 <div><a href="https://drive.google.com/file/d/1N6tfEU7eTvXyETbfa_I5Q3aLxi6GFUpZ/view?usp=sharing"><p>POWER BI</p></a><div>
 <div><a href="https://drive.google.com/file/d/1islcm2wbVILmJ_z2f3tt84l0NB74WaV5/view?usp=sharing"><p>Tecnico em mecatrônica</p></a><div>
