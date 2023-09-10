@@ -34,7 +34,12 @@
   <a href="https://wa.me/5519997455472" target="_blank"> <img src="IMG\Whatsapp\android-chrome-512x512.png" width="50" height="50"></a>
 </div>
 
-## Meus certificados de cursos e certificaçôes:
+## Meus certificados de cursos, certificaçôes e badge:
+
+# badge
+
+<div><a href="https://www.credly.com/badges/3ed227f8-66a4-4c35-b570-273973b03199/public_url"><p>AWS Academy Graduate - AWS Academy Cloud Foundations</p></a><div>
+<div><a href="https://www.credly.com/badges/4c37c422-54d9-477a-8b09-79b1a8af1b1b/public_url"><p>CCNA: Introduction to Networks</p></a><div>
 
 # Meus certificados de cursos
 
