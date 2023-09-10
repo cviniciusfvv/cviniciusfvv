@@ -30,9 +30,15 @@
 ## Rede socias e contato:
 
 <div>
-  <a href="https://www.linkedin.com/in/cviniciusfvvalentim/" target="_blank"> <img src="IMG\linkedin\android-chrome-512x512.png" width="50" height="50"></a>
-  <a href="https://t.me/CViniciusFVValentim" target="_blank"> <img src="IMG\Telegram\android-chrome-512x512.png" width="50" height="50"> </a>
-  <a href="https://wa.me/551999659-6674" target="_blank"> <img src="IMG\Whatsapp\android-chrome-512x512.png" width="50" height="50"></a>
+  <a href="https://www.linkedin.com/in/cviniciusfvvalentim/" target="_blank">
+    <img src="IMG/linkedin/android-chrome-512x512.png" alt="LinkedIn" width="50" height="50">
+  </a>
+  <a href="https://t.me/CViniciusFVValentim" target="_blank">
+    <img src="IMG/Telegram/android-chrome-512x512.png" alt="Telegram" width="50" height="50">
+  </a>
+  <a href="https://wa.me/551999659-6674" target="_blank">
+    <img src="IMG/Whatsapp/android-chrome-512x512.png" alt="WhatsApp" width="50" height="50">
+  </a>
 </div>
 
 ## certificaçôes e badge:
