@@ -15,15 +15,15 @@
 
 # Redes:
 
-<img loading="lazy" src="IMG\cisco\cisco.png" width="50" height="50"/> <img loading="lazy" src="IMG\redes\cabo.png" width="50" height="50"/>
+<img loading="lazy" src="IMG\cisco\cisco.png" width="75" height="75"/> <img loading="lazy" src="IMG\redes\cabo.png" width="75" height="75"/>
 
 # WEB:
 
-<img loading="lazy" src="IMG\CSS\css-3.png" width="50" height="50"/> <img loading="lazy" src="IMG\HTML\html-5.png" width="50" height="50"/>
+<img loading="lazy" src="IMG\CSS\css-3.png" width="75" height="75"/> <img loading="lazy" src="IMG\HTML\html-5.png" width="75" height="75"/>
 
 # Linguagens:
 
-<img loading="lazy" src="IMG/c/android-chrome-512x512.png" width="45" height="45"/> <img loading="lazy" src="IMG/c++/android-chrome-512x512.png" width="45" height="45"/> <img loading="lazy" src="IMG/Csharp/android-chrome-512x512.png" width="45" height="45"/> <img loading="lazy" src="IMG/python/android-chrome-512x512.png" width="45" height="45"/>
+<img loading="lazy" src="IMG/c/android-chrome-512x512.png" width="75" height="75"/> <img loading="lazy" src="IMG/c++/android-chrome-512x512.png" width="75" height="75"/> <img loading="lazy" src="IMG/Csharp/android-chrome-512x512.png" width="75" height="75"/> <img loading="lazy" src="IMG/python/android-chrome-512x512.png" width="75" height="75"/>
 
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Mantraz_)](https://github.com/anuraghazra/github-readme-stats)
 
