@@ -15,15 +15,15 @@
 
 # Redes:
 
-<img loading="lazy" src="IMG\cisco\cisco.png" width="75" height="75"/> <img loading="lazy" src="IMG\redes\cabo.png" width="75" height="75"/>
+<img loading="lazy" src="IMG\cisco\cisco.png" width="100" height="100"/> <img loading="lazy" src="IMG\redes\cabo.png" width="100" height="100"/>
 
 # WEB:
 
-<img loading="lazy" src="IMG\CSS\css-3.png" width="75" height="75"/> <img loading="lazy" src="IMG\HTML\html-5.png" width="75" height="75"/>
+<img loading="lazy" src="IMG\CSS\css-3.png" width="100" height="100"/> <img loading="lazy" src="IMG\HTML\html-5.png" width="100" height="100"/>
 
 # Linguagens:
 
-<img loading="lazy" src="IMG/c/android-chrome-512x512.png" width="75" height="75"/> <img loading="lazy" src="IMG/c++/android-chrome-512x512.png" width="75" height="75"/> <img loading="lazy" src="IMG/Csharp/android-chrome-512x512.png" width="75" height="75"/> <img loading="lazy" src="IMG/python/android-chrome-512x512.png" width="75" height="75"/>
+<img loading="lazy" src="IMG/c/android-chrome-512x512.png" width="100" height="100"/> <img loading="lazy" src="IMG/c++/android-chrome-512x512.png" width="100" height="100"/> <img loading="lazy" src="IMG/Csharp/android-chrome-512x512.png" width="100" height="100"/> <img loading="lazy" src="IMG/python/android-chrome-512x512.png" width="100" height="100"/>
 
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Mantraz_)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -31,13 +31,13 @@
 
 <div>
   <a href="https://www.linkedin.com/in/cviniciusfvvalentim/" target="_blank">
-    <img src="IMG\linkedin\linkedin.png" alt="LinkedIn" width="75" height="75">
+    <img src="IMG\linkedin\linkedin.png" alt="LinkedIn" width="100" height="100">
   </a>
   <a href="https://t.me/CViniciusFVValentim" target="_blank">
-    <img src="IMG\Telegram\telegram.png" alt="Telegram" width="75" height="75">
+    <img src="IMG\Telegram\telegram.png" alt="Telegram" width="100" height="100">
   </a>
   <a href="https://wa.me/551999659-6674" target="_blank">
-    <img src="IMG\Whatsapp\whatsapp.png" alt="WhatsApp" width="75" height="75">
+    <img src="IMG\Whatsapp\whatsapp.png" alt="WhatsApp" width="100" height="100">
   </a>
 </div>
 
