@@ -11,6 +11,8 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=cviniciusfvv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+## Rede socias e contato:
+
 <div>
   <a href="https://www.linkedin.com/in/cviniciusfvvalentim/" target="_blank">
     <img src="IMG\linkedin\linkedin.png" alt="LinkedIn" width="100" height="100">
@@ -50,4 +52,3 @@
 
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Mantraz_)](https://github.com/anuraghazra/github-readme-stats)
 
-## Rede socias e contato:
