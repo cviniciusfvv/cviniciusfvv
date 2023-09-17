@@ -27,6 +27,8 @@
   </a>
 </div>
 
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Mantraz_)](https://github.com/anuraghazra/github-readme-stats)
+
 ## certificaçôes e badge:
 
 # Badge
@@ -49,6 +51,3 @@
 # Linguagens:
 
 <img loading="lazy" src="IMG\c\letra-c.png" width="100" height="100"/> <img loading="lazy" src="IMG\c++\c-.png" width="100" height="100"/> <img loading="lazy" src="IMG\Csharp\do-sustenido.png" width="100" height="100"/> <img loading="lazy" src="IMG\python\python.png" width="100" height="100"/>
-
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Mantraz_)](https://github.com/anuraghazra/github-readme-stats)
-
