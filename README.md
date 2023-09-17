@@ -15,7 +15,7 @@
 
 # Redes:
 
-<img loading="lazy" src="IMG\cisco\cisco.png" width="45" height="45"/> <img loading="lazy" src="IMG/redes/android-chrome-512x512.png" width="45" height="45"/>
+<img loading="lazy" src="IMG\cisco\cisco.png" width="50" height="50"/> <img loading="lazy" src="IMG\redes\cabo.png" width="50" height="50"/>
 
 # WEB:
 
