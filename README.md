@@ -19,7 +19,7 @@
 
 # WEB:
 
-<img loading="lazy" src="IMG/CSS/android-chrome-512x512.png" width="45" height="45"/> <img loading="lazy" src="IMG/HTML/android-chrome-512x512.png" width="45" height="45"/>
+<img loading="lazy" src="IMG\CSS\css-3.png" width="50" height="50"/> <img loading="lazy" src="IMG\HTML\html-5.png" width="50" height="50"/>
 
 # Linguagens:
 
