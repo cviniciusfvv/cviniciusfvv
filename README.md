@@ -19,7 +19,7 @@
 
 # WEB:
 
-<img loading="lazy" src="IMG/CSS/android-chrome-512x512.png" width="45" height="45"/> <img loading="lazy" src="IMG/HTML/android-chrome-512x512.png" width="45" height="45"/>
+<img loading="lazy" src="IMG/CSS/android-chrome-512x512.png" width="45" height="45"/> <img loading="lazy" src="IMG\redes\cabo.png" width="45" height="45"/>
 
 # Linguagens:
 
