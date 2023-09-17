@@ -37,7 +37,7 @@
     <img src="IMG/Telegram/android-chrome-512x512.png" alt="Telegram" width="75" height="75">
   </a>
   <a href="https://wa.me/551999659-6674" target="_blank">
-    <img src="IMG/Whatsapp/android-chrome-512x512.png" alt="WhatsApp" width="75" height="75">
+    <img src="IMG\Whatsapp\whatsapp.png" alt="WhatsApp" width="75" height="75">
   </a>
 </div>
 
