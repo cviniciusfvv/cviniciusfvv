@@ -33,6 +33,9 @@
   <a href="https://www.linkedin.com/in/cviniciusfvvalentim/" target="_blank">
     <img src="IMG\linkedin\linkedin.png" alt="LinkedIn" width="100" height="100">
   </a>
+    <a href="cviniciusfvv@gmail.com" target="_blank">
+    <img src="IMG\gmail\gmail.png" alt="Gmail" width="100" height="100">
+  </a>
   <a href="https://t.me/CViniciusFVValentim" target="_blank">
     <img src="IMG\Telegram\telegram.png" alt="Telegram" width="100" height="100">
   </a>
