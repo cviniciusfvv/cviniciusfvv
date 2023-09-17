@@ -31,7 +31,7 @@
 
 <div>
   <a href="https://www.linkedin.com/in/cviniciusfvvalentim/" target="_blank">
-    <img src="IMG/linkedin/android-chrome-512x512.png" alt="LinkedIn" width="75" height="75">
+    <img src="IMG\linkedin\linkedin.png" alt="LinkedIn" width="75" height="75">
   </a>
   <a href="https://t.me/CViniciusFVValentim" target="_blank">
     <img src="IMG\Telegram\telegram.png" alt="Telegram" width="75" height="75">
