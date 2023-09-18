@@ -38,16 +38,16 @@
 
 
 
-## O que estou estudando:
+# O que estou estudando:
 
-# Redes:
+## Redes:
 
 <img loading="lazy" src="IMG\cisco\cisco.png" width="100" height="100"/> <img loading="lazy" src="IMG\redes\cabo.png" width="100" height="100"/>
 
-# WEB:
+## WEB:
 
 <img loading="lazy" src="IMG\CSS\css-3.png" width="100" height="100"/> <img loading="lazy" src="IMG\HTML\html-5.png" width="100" height="100"/>
 
-# Linguagens:
+## Linguagens:
 
 <img loading="lazy" src="IMG\c\letra-c.png" width="100" height="100"/> <img loading="lazy" src="IMG\c++\c-.png" width="100" height="100"/> <img loading="lazy" src="IMG\Csharp\do-sustenido.png" width="100" height="100"/> <img loading="lazy" src="IMG\python\python.png" width="100" height="100"/>
