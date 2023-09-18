@@ -12,9 +12,6 @@
 
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Mantraz_)](https://github.com/anuraghazra/github-readme-stats)
 </div>
-
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Mantraz_)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Rede socias e contato:
 
 <div>
