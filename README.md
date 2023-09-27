@@ -1,7 +1,7 @@
 ### Hello There, eu sou Carlos Vinicius 👋
 
 - 🔭 Atualmente estou aprocura de um trabalho
-- 🌱 Atualmente, estou aprimorando meus conhecimentos através de cursos oferecidos pelo SENAI e também de cursos de educação a distância (EAD) para aprimorar ainda mais minha formação como Técnico em Mecatrônica.
+- 🌱  Atualmente, estou aprimorando meus conhecimentos por meio de cursos oferecidos pelo SENAI e também estou cursando a formação técnica em Redes de Computadores, além de já possuir formação como Técnico em Mecatrônica. Essa jornada visa a ampliação e integração das minhas habilidades técnicas.
 - 📫 Como entrar em contato comigo: cviniciusfvv@gmail.com
 - 🧾 Linkedin: https://www.linkedin.com/in/cviniciusfvvalentim/
 
