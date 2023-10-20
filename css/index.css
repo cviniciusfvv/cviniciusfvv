@@ -63,3 +63,13 @@
     .sidebar a {font-size: 18px;}
   }
   /* fim */
+
+  body {
+    font-size: 24px; /* Tamanho base da fonte para o corpo da página */
+}
+h1, h2, h3 {
+    font-size: 32px; /* Tamanho das cabeçalhos */
+}
+p {
+    font-size: 26px; /* Tamanho dos parágrafos */
+}
