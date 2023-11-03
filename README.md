@@ -7,6 +7,8 @@
 
 <div>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Mantraz_)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
