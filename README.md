@@ -6,7 +6,7 @@
 - 🧾 Linkedin: https://www.linkedin.com/in/cviniciusfvvalentim/
 
 <div>
-!(https://github-readme-stats.vercel.app/api?username=cviniciusfvv&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cviniciusfvv&show_icons=true&bg_color=00000000)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cviniciusfvv&layout=compact)
 
