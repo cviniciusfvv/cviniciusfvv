@@ -6,7 +6,7 @@
 - 🧾 Linkedin: https://www.linkedin.com/in/cviniciusfvvalentim/
 
 <div>
-![cviniciusfvv's GitHub stats](https://github-readme-stats.vercel.app/api?username=cviniciusfvv&show_icons=true&theme=radical)
+![Mantraz_'s GitHub stats](https://github-readme-stats.vercel.app/api?username=cviniciusfvv&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cviniciusfvv&layout=compact)
 
