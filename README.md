@@ -7,9 +7,10 @@
 
 <div>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cviniciusfvv&layout=compact)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cviniciusfvv&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cviniciusfvv&layout=compact)
 
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Mantraz_)](https://github.com/anuraghazra/github-readme-stats)
 </div>
