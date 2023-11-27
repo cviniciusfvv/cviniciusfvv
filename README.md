@@ -23,10 +23,10 @@
   <a href="mailto:cviniciusfvv@gmail.com" target="_blank">
     <img src="IMG\gmail\gmail.png" alt="Gmail" width="100" height="100">
   </a>
-  <a href="https://t.me/CViniciusFVValentim" target="_blank">
+  <a href="https://t.me/CViniciusFVV" target="_blank">
     <img src="IMG\Telegram\telegram.png" alt="Telegram" width="100" height="100">
   </a>
-  <a href="https://wa.me/5519996596674" target="_blank">
+  <a href="https://wa.me/5519997455472" target="_blank">
     <img src="IMG\Whatsapp\whatsapp.png" alt="WhatsApp" width="100" height="100">
   </a>
 </div>
