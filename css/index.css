@@ -18,7 +18,7 @@
     padding: 8px 8px 8px 32px;
     text-decoration: none;
     font-size: 25px;
-    color: #084d6e;
+    color: #1894CC;
     display: block;
     transition: 0.3s;
   }
@@ -41,7 +41,7 @@
   .openbtn {
     font-size: 20px;
     cursor: pointer;
-    background-color: #084d6e;
+    background-color: #1894CC;
     color: white;
     padding: 10px 15px;
     border: none;
