@@ -35,9 +35,11 @@
 
 ## Badge
 
-<div><a href="https://www.credly.com/badges/3ed227f8-66a4-4c35-b570-273973b03199/public_url"><p>AWS Academy Graduate - AWS Academy Cloud Foundations</p></a><div>
 <div><a href="https://www.credly.com/badges/4c37c422-54d9-477a-8b09-79b1a8af1b1b/public_url"><p>CCNA 1: Introduction to Networks</p></a><div>
 <div><a href="https://www.credly.com/badges/c58ef3cb-fe1d-4b8c-a392-9a6056b3c98c/public_url"><p>CCNA 2: switching, routing and wireless essentials</p></a><div>
+<div><a href="https://www.credly.com/badges/871fd4f0-41cf-4d40-b771-3e1bf9cdca84/public_url"><p>CCNA 3: Enterprise Networking, Security, and Automation</p></a><div>
+<div><a href="https://www.credly.com/badges/3ed227f8-66a4-4c35-b570-273973b03199/public_url"><p>AWS Academy Graduate - AWS Academy Cloud Foundations</p></a><div>
+<div><a href="https://www.credly.com/badges/85ed2722-6cb2-45e9-8ff0-403fb60a5b99/public_url"><p>Python Essentials 1</p></a><div>
 
 
 
